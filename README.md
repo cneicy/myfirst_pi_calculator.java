@@ -1,2 +1,2 @@
 # myfirst_pi_calculator.java
-pi_calculator
+This idea comes from https://github.com/AceLewis/my_first_calculator.py
