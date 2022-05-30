@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class pi {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-        System.out.println("请输入圆周率小数位数");
+        System.out.println("Please enter the number of decimal places for pi:");
         String str1 = scan.next();
         if(str1.equals("0")){
             System.out.println("3");
